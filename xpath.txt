@@ -1,0 +1,5 @@
+Links = //div[@class = "item product product-item"]/div[@class = "product-item-info"]/div[@class = "image-product"]/a[@class = "product photo product-item-photo"]/@href
+Title = //h1[@class = "page-title"]/span[@itemprop = "name"]/text()
+Author = //div[@class = "author"]/span/text()
+Price = //div[@class = "product-info-price"]/div/span[@class = "special-price"]/span[@class = "price-container price-final_price tax"]/span[@data-price-type = "finalPrice"]/span/text()
+Synopsis = //div[@class = "additional-attributes-wrapper custom-synopsis"]/p/text()
