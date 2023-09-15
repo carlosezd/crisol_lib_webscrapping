@@ -6,4 +6,4 @@ URL del Curso: https://platzi.com/cursos/web-scraping/
 
 URL de la Libreria: https://www.crisol.com.pe/
 
-Se logró crear el programa en python sin embargo, tiene problemas para guardar la información en caso de libros con títulos contenga un caracter que no identificables como los "¿?", ":", etc.
+Se logró crear el programa en python sin embargo, tiene problemas para guardar la información en caso de libros con títulos contenga un caracter no identificables como los "¿?", ":", etc.
